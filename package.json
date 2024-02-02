@@ -1,6 +1,6 @@
 {
   "name": "@learningtogether/shared",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Shared package for learning together code",
   "main": "dist/index.js",
   "type": "module",
